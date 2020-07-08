@@ -1,0 +1,4 @@
+saving a file   --- CTRL + s
+execution --- ALT+SHIFT+X,J
+to print system.out.println() ---- syso+CTRL+ space bar +enter
+to print main method ---- main+CTRL+ space bar + enter
